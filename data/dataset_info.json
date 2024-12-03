@@ -628,5 +628,9 @@
   "self_cognition": {
     "file_name": "self_cognition.json",
     "file_sha1": "eca3d89fa38b35460d6627cefdc101feef507eb5"
+  },
+  "whoiszhang_cognition.json": {
+    "file_name": "whoiszhang_cognition.json",
+    "file_sha1": "eca3d89fa38b35460d6627cefdc101feef507eb5-1"
   }
 }
